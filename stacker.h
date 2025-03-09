@@ -17,7 +17,7 @@
 
 struct Pixel{
   int red, green, blue;
-}
+};
   
 class Stacker {
 private:
